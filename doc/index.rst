@@ -6,3 +6,4 @@
    :caption: Contents:
 
    basic
+   smartled
