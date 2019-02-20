@@ -6,4 +6,4 @@
    :caption: Contents:
 
    basic
-   smartled
+   remoteled
