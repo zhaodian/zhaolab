@@ -5,5 +5,6 @@
    :maxdepth: 2
    :caption: Contents:
 
+   preface
    basic
    remoteled
