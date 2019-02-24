@@ -26,7 +26,8 @@
 
 编程实践
 --------
-软件环境：Windows10、Arduino开发环境
+- 硬件环境：个人电脑、支持ESP8266 Arduino Core的开发板（推荐NodeMcu开发板，价格10-15元）
+- 软件环境：Windows10、Arduino IDE
 
 变量实践
 ~~~~~~~~
