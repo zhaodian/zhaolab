@@ -88,11 +88,11 @@
   
 	if(a >= b)  //如果a>b，打印"a >= b"
 	{
-      Serial.printf("a >= b");
+	  Serial.printf("a >= b");
 	}
 	else        //否则，打印"a < b"
 	{
-      Serial.printf("a < b");
+	  Serial.printf("a < b");
 	}
 		
 循环实践
