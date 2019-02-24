@@ -15,7 +15,7 @@ int：return的类型
 
 void setup()
 {
-  Serial.begin(115200);
+  Serial.begin(74880);
   
   int a = 1;  //声明整型变量并赋值1
   int b = 2;
