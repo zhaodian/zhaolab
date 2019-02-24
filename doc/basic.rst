@@ -81,20 +81,27 @@
 
 判断实践
 ~~~~~~~~
-.. code:: Python
+.. code:: Arduino
 
-	a = 1
-	b = 2
-	if a > b:		# 如果a>b，打印"a大于b"
-	    print("a大于b")
-	else:			# 否则，打印"a小于b"
-	    print("a小于b")
+	int a = 1;
+	int b = 2;
+  
+	if(a >= b)  //如果a>b，打印"a >= b"
+	{
+      Serial.printf("a >= b");
+	}
+	else        //否则，打印"a < b"
+	{
+      Serial.printf("a < b");
+	}
 		
 循环实践
 ~~~~~~~~
-.. code:: Python
+.. code:: Arduino
 
-	a = 1
-	while a <= 3 :	# 当a<=3这个条件为真时执行缩进的内容，缩进就是前面有空格
-	    print(a)
-	    a = a + 1	# 把a+1的值赋值给a
+	int a = 1;
+	while(a <= 3)               //当a<=3这个条件为真时执行大括号的内容
+	{
+	  Serial.printf("%d\n", a);//打印a的值并换行，\n是换行的意思
+      a = a + 1;                //把a + 1的值赋值给a
+	}
