@@ -7,4 +7,4 @@
 
    preface
    basic
-   remoteled
+   solve
