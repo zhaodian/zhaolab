@@ -26,7 +26,7 @@
 
 入门要素实践
 ------------
-- 硬件环境：个人电脑、ESP8266开发板（推荐NodeMcu开发板，参考价格CNY10-15元）
+- 硬件环境：个人电脑、ESP8266（Arduino Core）开发板（推荐NodeMcu开发板）
 - 软件环境：Windows10、Arduino IDE
 
 变量实践
