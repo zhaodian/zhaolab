@@ -9,3 +9,4 @@
    basic
    solve
    smartlight
+   weatherstation
