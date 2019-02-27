@@ -8,3 +8,4 @@
    preface
    basic
    solve
+   smartlight
