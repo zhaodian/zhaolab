@@ -6,7 +6,7 @@
    :caption: Contents:
 
    preface
-   basic
    solve
+   basic
    smartlight
    weatherstation
