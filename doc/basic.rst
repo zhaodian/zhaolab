@@ -87,6 +87,17 @@ Python入门要素实践
 	# 函数add将para1、para2相加的值返回并赋值给变量c
 	print(c)
 
+判断实践
+~~~~~~~~
+.. code:: Python
+
+	a = 1
+	b = 2
+	if a >= b:			# 如果a>=b，打印"a >= b"
+	    print("a >= b")
+	else:				# 否则，打印"a < b"
+	    print("a < b")
+
 Arduino入门要素实践
 -------------------
 - **注意：Arduino不建议前期教学**
