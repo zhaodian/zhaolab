@@ -69,7 +69,7 @@ Python入门要素实践
 .. code:: Python
 
 	def add(para1, para2):
-    return para1 + para2
+        return para1 + para2
 	'''
 	def：定义函数
 	add：函数名
