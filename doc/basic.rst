@@ -121,7 +121,6 @@ Python入门要素实践
 
 Arduino入门要素实践
 -------------------
-- **注意：Arduino不建议前期教学**
 - 硬件环境：个人电脑、ESP8266（Arduino Core）开发板（推荐NodeMcu开发板）
 - 软件环境：Windows10、Arduino IDE
 - 资源成本（2018年人民币计价，单位：元）：	
