@@ -147,7 +147,7 @@ Arduino入门要素实践
 	
 函数实践
 ~~~~~~~~
-.. code:: Arduino
+.. code:: C++
 
 	int add(int para1, int para2)
 	{
@@ -174,7 +174,7 @@ Arduino入门要素实践
 
 判断实践
 ~~~~~~~~
-.. code:: Arduino
+.. code:: C++
 
 	int a = 1;
 	int b = 2;
@@ -190,7 +190,7 @@ Arduino入门要素实践
 		
 循环实践
 ~~~~~~~~
-.. code:: Arduino
+.. code:: C++
 
 	int a = 1;
 	while(a <= 3)               //当a<=3这个条件为真时执行大括号的内容
