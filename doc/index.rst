@@ -1,5 +1,5 @@
-找点实验室初级教程
-==================
+找点实验室-项目育儿手册
+=======================
 
 .. toctree::
    :maxdepth: 2
@@ -8,5 +8,6 @@
    preface
    solve
    basic
+   rctank
    smartlight
    weatherstation
